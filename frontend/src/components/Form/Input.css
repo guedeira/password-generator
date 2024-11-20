@@ -1,0 +1,28 @@
+.input-container {
+  margin-bottom: 15px;
+}
+
+.input-container label {
+  font-size: 14px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.slider {
+  flex: 1; /* O slider ocupa o espaço disponível */
+}
+
+.number-input {
+  width: 60px; /* Tamanho fixo para o campo numérico */
+  padding: 5px;
+  font-size: 14px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
